@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="RIBA Portable Items" path="Mods/RIBA Portable Items/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2382545579" installtime="1619977747">
+  <Text file="Mods/RIBA Portable Items/Russian.xml" />
+  <Text file="Mods/RIBA Portable Items/English.xml" />
+  <Item file="Mods/RIBA Portable Items/Items.xml" />
+  <None file="Mods/RIBA Portable Items/portable.png" />
+  <None file="Mods/RIBA Portable Items/FabricatorsAndDeconstructors.png" />
+</contentpackage>
