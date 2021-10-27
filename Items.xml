@@ -836,7 +836,7 @@
         <Upgrade gameversion="0.10.0.0" scale="0.5" />
         <ItemContainer capacity="20" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
             <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
-            <RequiredItem items="idCaptain, idSecurity" type="Picked" msg="ItemMsgUnauthorizedAccess" ignoreineditor="true" />
+            <RequiredItem items="id_medic,id_captain" type="Picked" msg="ItemMsgUnauthorizedAccess" ignoreineditor="true" />
             <Containable items="smallitem,chem,medical" />
             <StatusEffect type="OnContained" target="This" itempos="0,110"/>
             <StatusEffect type="OnNotContained" target="This" itempos="92,-46"/>
